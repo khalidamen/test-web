@@ -1,0 +1,12 @@
+{
+  "name": "test-web-dependency",
+  "version": "1.0.0",
+  "description": "Node dependencies for ZL",
+  "author": "",
+  "license": "ISC",
+  "repository": {
+  },
+  "dependencies": {
+    "@moby/test-component": "latest"
+  }
+}
