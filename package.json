@@ -7,6 +7,6 @@
   "repository": {
   },
   "dependencies": {
-    "@moby/test-component": "latest"
+    "@moby/test-component": "beta"
   }
 }
